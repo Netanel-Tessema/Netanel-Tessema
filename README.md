@@ -11,6 +11,7 @@
 
 ### 🔹 Object-Oriented Programming Project:
 - [WildLifeArena](https://github.com/Netanel-Tessema/WildLifeArena) – Animal battle simulator using advanced OOP in C++
+- [TerminalChatApp](https://github.com/Netanel-Tessema/TerminalChatApp) – A simple terminal-based chat app using TCP sockets (client/server)
 
 
 
@@ -21,10 +22,10 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/netanel-tessema-4abaaa277" target="blank">
+  <a href="https://www.linkedin.com/in/netanel-tessema-4abaaa277" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://www.instagram.com/nati_new_/" target="blank">
+  <a href="https://www.instagram.com/nati_new_/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="instagram" height="30" width="30" />
   </a>
 </p>
