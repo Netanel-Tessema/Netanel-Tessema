@@ -5,20 +5,14 @@
 💻 Passionate Software Developer
 </h4>
 
-<img align="right" alt="student learning" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
-
----
+<img align="right" alt="student learning" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 🔹 Object-Oriented Programming Project:
 - [WildLifeArena](https://github.com/Netanel-Tessema/WildLifeArena) – Animal battle simulator using advanced OOP in C++
 - [TerminalChatApp](https://github.com/Netanel-Tessema/TerminalChatApp) – A simple terminal-based chat app using TCP sockets (client/server)
 
----
-
-### 📫 How to reach me:
+### 📩 How to reach me:
 - Gmail: [tesemanetanel@gmail.com](mailto:tesemanetanel@gmail.com) ✉️
-
----
 
 ### 🤝 Connect with me:
 <p align="left">
@@ -30,9 +24,8 @@
   </a>
 </p>
 
----
-
 ### 🧰 Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css" />
 </p>
+
