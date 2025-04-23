@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/Netanel-Tessema/Netanel-Tessema/blob/main/A_digital_graphic_design_serves_as_a_personal_bran.png" width="100%" />
-</p>
 
 <h1 align="center">Hey there! 👋 I'm Netanel Tessema</h1>
 <p align="center">
