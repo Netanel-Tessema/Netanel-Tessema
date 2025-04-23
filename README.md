@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/Netanel-Tessema/Netanel-Tessema/blob/main/A_digital_graphic_design_serves_as_a_personal_bran.png" width="100%" />
+</p>
+
 <h1 align="center">Hey there! 👋 I'm Netanel Tessema</h1>
 <p align="center">
 🎓 Computer Science student @ HIT<br>
@@ -35,9 +39,8 @@
 
 ### 📫 Let's connect!
 <p align="center">
-  <a href="www.linkedin.com/in/netanel-tessema-4abaaa277"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
-  <a href="tesemanetanel@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/netanel-tessema-4abaaa277"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" /></a>
+  <a href="mailto:tesemanetanel@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
