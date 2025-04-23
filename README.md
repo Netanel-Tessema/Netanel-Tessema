@@ -7,7 +7,7 @@
 
 <img align="right" alt="student learning" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### 🔹 Object-Oriented Programming Project:
+
 - [WildLifeArena](https://github.com/Netanel-Tessema/WildLifeArena) – Animal battle simulator using advanced OOP in C++
 - [TerminalChatApp](https://github.com/Netanel-Tessema/TerminalChatApp) – A simple terminal-based chat app using TCP sockets (client/server)
 
